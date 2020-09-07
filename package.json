@@ -1,7 +1,7 @@
 {
   "name": "git-account-manager",
   "version": "1.0.0",
-  "description": "Nodejs command line tool to switch between multiple git accounts",
+  "description": "Nodejs tool useful to switch between git accounts at global level",
   "main": "manager.js",
   "repository": "https://github.com/francescochiapello/git-account-manager",
   "author": "francescochiapello <francesco.chiapello@outlook.com>",
