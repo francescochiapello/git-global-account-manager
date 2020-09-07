@@ -1,0 +1,23 @@
+{
+  "name": "git-account-manager",
+  "version": "1.0.0",
+  "description": "Nodejs command line tool to switch between multiple git accounts",
+  "main": "manager.js",
+  "repository": "https://github.com/francescochiapello/git-account-manager",
+  "author": "francescochiapello <francesco.chiapello@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node manager.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "ipt": "^3.1.1",
+    "simple-output": "^2.1.1"
+  },
+  "devDependencies": {
+    "snazzy": "^8.0.0",
+    "standard": "^14.3.4"
+  }
+}
