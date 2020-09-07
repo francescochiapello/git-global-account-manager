@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 const ipt = require('ipt')
 const out = require('simple-output')
