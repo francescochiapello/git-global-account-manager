@@ -1,6 +1,6 @@
 {
   "name": "git-global-account-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs tool useful to switch between git accounts at global level",
   "main": "manager.js",
   "repository": "https://github.com/francescochiapello/git-global-account-manager",
