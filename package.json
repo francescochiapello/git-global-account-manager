@@ -1,5 +1,5 @@
 {
-  "name": "git-account-manager",
+  "name": "@francescochiapello/git-account-manager",
   "version": "1.0.0",
   "description": "Nodejs tool useful to switch between git accounts at global level",
   "main": "manager.js",
@@ -7,6 +7,12 @@
   "author": "francescochiapello <francesco.chiapello@outlook.com>",
   "license": "MIT",
   "private": false,
+  "bin": {
+    "gam": "manager.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
   "scripts": {
     "start": "node manager.js"
   },
